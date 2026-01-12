@@ -93,7 +93,7 @@ export default function About() {
 
             <p className="text-lg md:text-xl text-slate-200 mb-6">
               We are a technology partner for teams that want to build, secure,
-              and scale high-performing digital products—without the guesswork.
+              and scale high-performing digital products without the guesswork.
             </p>
 
             <p className="text-sm md:text-base text-slate-300 max-w-xl">
@@ -153,8 +153,8 @@ export default function About() {
               </ul>
 
               <p className="text-lg text-slate-100 font-semibold">
-                We&apos;re not just implementers—we&apos;re partners invested in
-                your success.
+                We&apos;re not just implementers, we&apos;re partners invested
+                in your success.
               </p>
             </div>
             <div>
@@ -183,7 +183,7 @@ export default function About() {
             </h2>
             <p className="text-lg text-slate-300 max-w-2xl mx-auto">
               We partner with startups, growing businesses, and enterprises to
-              design and ship technology that actually gets used—and delivers
+              design and ship technology that actually gets used, and delivers
               results.
             </p>
           </div>
@@ -214,7 +214,7 @@ export default function About() {
               A process designed for clarity and momentum.
             </h2>
             <p className="text-lg text-slate-300 max-w-2xl mx-auto">
-              Our approach keeps you involved at every step—transparent,
+              Our approach keeps you involved at every step, transparent,
               predictable, and focused on outcomes.
             </p>
           </div>
@@ -230,8 +230,8 @@ export default function About() {
                   <p className="text-blue-100 text-sm">{step.description}</p>
                 </div>
                 {index < process.length - 1 && (
-                  <div className="hidden lg:block absolute top-1/2 -right-4 -translate-y-1/2">
-                    <ArrowRight className="w-7 h-7 text-slate-500" />
+                  <div className="hidden lg:block absolute top-1/2 -right-7 -translate-y-1/2">
+                    <ArrowRight className="w-7 h-7 text-slate-300" />
                   </div>
                 )}
               </div>
@@ -254,7 +254,8 @@ export default function About() {
                 </h3>
                 <p className="text-slate-300">
                   Our team stays ahead of modern frameworks, cloud platforms,
-                  and security practices—so your stack doesn&apos;t fall behind.
+                  and security practices, so your stack doesn&apos;t fall
+                  behind.
                 </p>
               </div>
               <div className="bg-slate-950/60 rounded-2xl border border-slate-700/80 p-8 shadow-md shadow-slate-900/50">
@@ -280,8 +281,9 @@ export default function About() {
                   Long-Term Partnership
                 </h3>
                 <p className="text-slate-300">
-                  We&apos;re here beyond launch—helping you evolve your product,
-                  respond to new opportunities, and scale with confidence.
+                  We&apos;re here beyond launch, helping you evolve your
+                  product, respond to new opportunities, and scale with
+                  confidence.
                 </p>
               </div>
             </div>

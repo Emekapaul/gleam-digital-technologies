@@ -106,7 +106,7 @@ export default function Home() {
 
               <p className="text-lg md:text-xl text-slate-200 mb-6">
                 End-to-end technology services for teams that want to move
-                faster—with confidence in their infrastructure, data, and
+                faster with confidence in their infrastructure, data, and
                 security.
               </p>
 
@@ -270,7 +270,7 @@ export default function Home() {
             Ready to ship what&apos;s next?
           </h2>
           <p className="text-lg md:text-xl mb-8 max-w-2xl mx-auto text-slate-950">
-            Tell us where you are today—and we&apos;ll help you design, build,
+            Tell us where you are today, and we&apos;ll help you design, build,
             and operate the technology that gets you to where you want to be.
           </p>
           <Link
