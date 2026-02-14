@@ -167,7 +167,7 @@ export default function Header() {
                   Get in touch
                 </h4>
                 <div className="space-y-1 sm:space-y-2 text-xs sm:text-sm text-slate-300">
-                  <p>hello@digitaltechnologies.dev</p>
+                  <p>info@gleamdigitaltechnologies.com</p>
                   <p>Remote-first · Serving clients worldwide</p>
                 </div>
               </div>
